@@ -26,6 +26,7 @@ Macros(Declarative macros [1], Proc macro [2], Proc attribute-like macros [3], P
 - [The Little Book of Rust Macros](https://danielkeep.github.io/tlborm/book/README.html)[1] - Must read
 - [Crust of Rust: Declarative Macros](https://www.youtube.com/watch?v=q6paRBbLgNw)[1]
 - [Proc macro workshop](https://github.com/dtolnay/proc-macro-workshop)[2, 3, 4] - lessons for going deep to macros
+- [Addition info from David Tolnay about macro learning](https://github.com/dtolnay/proc-macro-workshop/issues/22)
 - [Crust of Rust: Procedural Macros in Rust (part 1)](https://www.youtube.com/watch?v=geovSK3wMB8)[2, 3, 4]
 - [Crust of Rust: Procedural Macros in Rust (part 2)](https://www.youtube.com/watch?v=KVWHT1TAirU)[2, 3, 4]
   
