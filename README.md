@@ -18,6 +18,7 @@ I recommend before starting to write your project watch these videos:
 - [Crust of Rust: Iterators](https://www.youtube.com/watch?v=yozQ9C69pNs)
 - [Crust of Rust: Lifetime Annotations](https://www.youtube.com/watch?v=rAl-9HwD858)
 - [LifetimeKata](https://github.com/tfpk/lifetimekata)
+- [rust-blog](https://github.com/pretzelhammer/rust-blog/blob/master/posts/common-rust-lifetime-misconceptions.md)
 
 I learn it on my first pet project:
 - [Serde](https://serde.rs/)
