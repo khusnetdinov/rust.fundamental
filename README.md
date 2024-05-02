@@ -34,4 +34,6 @@ Macros(Declarative macros [1], Proc macro [2], Proc attribute-like macros [3], P
 - [Crust of Rust: Procedural Macros in Rust (part 2)](https://www.youtube.com/watch?v=KVWHT1TAirU)[2, 3, 4]
 - [More for reading](https://github.com/dtolnay/case-studies) 
   
-  
+Orphan rule, Coherence rules:
+- [Orphan rule, newType pattern and TraitWrapper](https://www.linkedin.com/pulse/orphan-rule-newtype-pattern-traitwrapper-amit-nadiger#:~:text=The%20orphan%20rule%20in%20Rust%20states%20that%20you%20can%20only,type%20directly%20in%20your%20crate.)
+- [Coherence and Orphan Rules in Rust](https://github.com/Ixrec/rust-orphan-rules)
