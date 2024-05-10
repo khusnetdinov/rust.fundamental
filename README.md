@@ -48,3 +48,14 @@ Pointers:
 - [Crust of Rust: Dispatch and Fat Pointers](https://www.youtube.com/watch?v=xcygqF5LVmM)
 - [What are Rust's exact auto-dereferencing rules?](https://stackoverflow.com/questions/28519997/what-are-rusts-exact-auto-dereferencing-rules/28552082#28552082)
 - [Crust of Rust: The Drop Check](https://www.youtube.com/watch?v=TJOFSMpJdzg)
+
+Futures, Channels, Concurrency:
+- [Crust of Rust: async/await](https://www.youtube.com/watch?v=ThjvMReOXYM)
+- [The What and How of Futures and async/await in Rust](https://www.youtube.com/watch?v=9_3krAQtD2k)
+  
+- [Crust of Rust: Channels](https://www.youtube.com/watch?v=b4mS5UPHh20)
+- [A Cool Generic Concurrency Primitive in Rust](https://www.youtube.com/watch?v=eLNAMEoKAAc)
+- [Crust of Rust: Send, Sync, and their implementors](https://www.youtube.com/watch?v=yOezcP-XaIw)
+- [Decrusting the tokio crate](https://www.youtube.com/watch?v=o2ob8zkeq2s)
+
+
