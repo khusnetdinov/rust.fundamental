@@ -42,3 +42,9 @@ Macros(Declarative macros [1], Proc macro [2], Proc attribute-like macros [3], P
 Orphan rule, Coherence rules:
 - [Orphan rule, newType pattern and TraitWrapper](https://www.linkedin.com/pulse/orphan-rule-newtype-pattern-traitwrapper-amit-nadiger#:~:text=The%20orphan%20rule%20in%20Rust%20states%20that%20you%20can%20only,type%20directly%20in%20your%20crate.)
 - [Coherence and Orphan Rules in Rust](https://github.com/Ixrec/rust-orphan-rules)
+
+Pointers:
+- [Crust of Rust: Smart Pointers and Interior Mutability](https://www.youtube.com/watch?v=8O0Nt9qY_vo)
+- [Crust of Rust: Dispatch and Fat Pointers](https://www.youtube.com/watch?v=xcygqF5LVmM)
+- [Crust of Rust: The Drop Check](https://www.youtube.com/watch?v=TJOFSMpJdzg)
+- [What are Rust's exact auto-dereferencing rules?](https://stackoverflow.com/questions/28519997/what-are-rusts-exact-auto-dereferencing-rules/28552082#28552082)
