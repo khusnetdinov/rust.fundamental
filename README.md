@@ -20,6 +20,7 @@ I recommend before starting to write your project watch these videos:
 - [LifetimeKata](https://github.com/tfpk/lifetimekata)
 - [Subtyping](https://doc.rust-lang.org/nomicon/subtyping.html)
 - [Lifetime variance in Rust](https://github.com/sunshowers-code/lifetime-variance)
+- [Crust of Rust: Subtyping and Variance](https://www.youtube.com/watch?v=iVYWDIW71jk)
 - [rust-blog](https://github.com/pretzelhammer/rust-blog/blob/master/posts/common-rust-lifetime-misconceptions.md)
 
 I learn it on my first pet project:
