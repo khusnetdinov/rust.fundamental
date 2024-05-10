@@ -16,16 +16,19 @@ First practice:
 
 I recommend before starting to write your project watch these videos:
 - [Crust of Rust: Iterators](https://www.youtube.com/watch?v=yozQ9C69pNs)
+- [Crust of Rust: std::collections](https://www.youtube.com/watch?v=EF3Z4jdD1EQ)
+
+I learn it on my first pet project:
+- [Serde](https://serde.rs/)
+- [Crust of Rust: Decrusting the serde](https://www.youtube.com/watch?v=BI_bHCGRgMY) 
+
+Lifetimes with subtyping and variance
 - [Crust of Rust: Lifetime Annotations](https://www.youtube.com/watch?v=rAl-9HwD858)
 - [LifetimeKata](https://github.com/tfpk/lifetimekata)
 - [Subtyping](https://doc.rust-lang.org/nomicon/subtyping.html)
 - [Lifetime variance in Rust](https://github.com/sunshowers-code/lifetime-variance)
 - [Crust of Rust: Subtyping and Variance](https://www.youtube.com/watch?v=iVYWDIW71jk)
 - [rust-blog](https://github.com/pretzelhammer/rust-blog/blob/master/posts/common-rust-lifetime-misconceptions.md)
-
-I learn it on my first pet project:
-- [Serde](https://serde.rs/)
-- [Crust of Rust: Decrusting the serde](https://www.youtube.com/watch?v=BI_bHCGRgMY) 
 
 Macros(Declarative macros [1], Proc macro [2], Proc attribute-like macros [3], Proc function-like macros [4]):
 - [The Little Book of Rust Macros](https://danielkeep.github.io/tlborm/book/README.html)[1] - Must read
