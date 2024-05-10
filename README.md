@@ -62,3 +62,5 @@ Futures, Channels, Concurrency:
 
 Other:
 - [The Rustonomicon](https://doc.rust-lang.org/stable/nomicon/)
+- [Rust Language Cheat Sheet](https://cheats.rs/)
+- [An Introduction to Rust Memory Distribution](https://www.alibabacloud.com/blog/an-introduction-to-rust-memory-distribution_600132)
