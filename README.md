@@ -58,4 +58,7 @@ Futures, Channels, Concurrency:
 - [Crust of Rust: Send, Sync, and their implementors](https://www.youtube.com/watch?v=yOezcP-XaIw)
 - [Decrusting the tokio crate](https://www.youtube.com/watch?v=o2ob8zkeq2s)
 
+# TODO
 
+Other:
+- [The Rustonomicon](https://doc.rust-lang.org/stable/nomicon/)
