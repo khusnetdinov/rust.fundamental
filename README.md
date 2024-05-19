@@ -46,7 +46,7 @@ Orphan rule, Coherence rules:
 Pointers:
 - [Crust of Rust: Smart Pointers and Interior Mutability](https://www.youtube.com/watch?v=8O0Nt9qY_vo)
 - [Crust of Rust: Dispatch and Fat Pointers](https://www.youtube.com/watch?v=xcygqF5LVmM)
-- [Crust of Rust: What are Rust's exact auto-dereferencing rules?](https://stackoverflow.com/questions/28519997/what-are-rusts-exact-auto-dereferencing-rules/28552082#28552082)
+- [What are Rust's exact auto-dereferencing rules?](https://stackoverflow.com/questions/28519997/what-are-rusts-exact-auto-dereferencing-rules/28552082#28552082)
 - [Crust of Rust: The Drop Check](https://www.youtube.com/watch?v=TJOFSMpJdzg)
 
 Hazard pointers:
