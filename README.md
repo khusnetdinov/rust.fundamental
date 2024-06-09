@@ -58,7 +58,7 @@ Hazard pointers:
 Futures, Channels, Concurrency:
 - [Crust of Rust: async/await](https://www.youtube.com/watch?v=ThjvMReOXYM)
 - [Crust of Rust: The What and How of Futures and async/await in Rust](https://www.youtube.com/watch?v=9_3krAQtD2k)
-- [Crust of Rust: The Why, What, and How of Pinning in Rust]()
+- [Crust of Rust: The Why, What, and How of Pinning in Rust](https://www.youtube.com/watch?v=DkMwYxfSYNQ)
 - [Crust of Rust: Channels](https://www.youtube.com/watch?v=b4mS5UPHh20)
 - [Crust of Rust: A Cool Generic Concurrency Primitive in Rust](https://www.youtube.com/watch?v=eLNAMEoKAAc)
 - [Crust of Rust: Send, Sync, and their implementors](https://www.youtube.com/watch?v=yOezcP-XaIw)
