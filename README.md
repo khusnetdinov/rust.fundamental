@@ -64,6 +64,7 @@ Futures, Channels, Concurrency:
 - [Crust of Rust: Send, Sync, and their implementors](https://www.youtube.com/watch?v=yOezcP-XaIw)
 - [Crust of Rust: Atomics and Memory Ordering](https://www.youtube.com/watch?v=rMGWeSjctlY)
 - [Crust of Rust: Decrusting the tokio crate](https://www.youtube.com/watch?v=o2ob8zkeq2s)
+- [Mini redis implementation with tokio as example for learning](https://github.com/tokio-rs/mini-redis)
 
 Tracing, compiling:
 
