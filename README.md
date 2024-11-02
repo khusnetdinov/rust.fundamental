@@ -75,10 +75,11 @@ Readging:
 - [Rust API Guidelines](https://doc.rust-lang.org/nightly/style-guide/index.html)
 - [The Rustonomicon](https://doc.rust-lang.org/stable/nomicon/)
 - [Rust Style Guide](https://doc.rust-lang.org/nightly/style-guide/index.html)
-- - [Rust Language Cheat Sheet](https://cheats.rs/)
+- [Rust Language Cheat Sheet](https://cheats.rs/)
 
 Posts:
 - [An Introduction to Rust Memory Distribution](https://www.alibabacloud.com/blog/an-introduction-to-rust-memory-distribution_600132)
+- [How to Use Rust Traits, Generics and Bounds](https://rsdlt.github.io/posts/rust-trait-super-generic-polymorphism-subtrait-supertrait-bounds/)
 
 Check your self:
 - [rust-quiz](https://dtolnay.github.io/rust-quiz/1)
