@@ -71,8 +71,14 @@ Tracing, compiling:
 - [Crust of Rust: Making a Rust crate compile faster](https://www.youtube.com/watch?v=pMiqRM5ooNw)
 - [Crust of Rust: Build Scripts and Foreign-Function Interfaces (FFI)](https://www.youtube.com/watch?v=pePqWoTnSmQ)
 
-Other:
+Readging:
+- [Rust API Guidelines](https://doc.rust-lang.org/nightly/style-guide/index.html)
 - [The Rustonomicon](https://doc.rust-lang.org/stable/nomicon/)
-- [Rust Language Cheat Sheet](https://cheats.rs/)
+- [Rust Style Guide](https://doc.rust-lang.org/nightly/style-guide/index.html)
+- - [Rust Language Cheat Sheet](https://cheats.rs/)
+
+Posts:
 - [An Introduction to Rust Memory Distribution](https://www.alibabacloud.com/blog/an-introduction-to-rust-memory-distribution_600132)
+
+Check your self:
 - [rust-quiz](https://dtolnay.github.io/rust-quiz/1)
