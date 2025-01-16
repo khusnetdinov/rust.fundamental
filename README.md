@@ -72,6 +72,7 @@ Tracing, compiling:
 - [Crust of Rust: Build Scripts and Foreign-Function Interfaces (FFI)](https://www.youtube.com/watch?v=pePqWoTnSmQ)
 
 Readging:
+- [Rust Atomics and Locks](https://marabos.nl/atomics/) with [code](https://github.com/m-ou-se/rust-atomics-and-locks?tab=readme-ov-file)
 - [Rust API Guidelines](https://doc.rust-lang.org/nightly/style-guide/index.html)
 - [The Rustonomicon](https://doc.rust-lang.org/stable/nomicon/)
 - [Rust Style Guide](https://doc.rust-lang.org/nightly/style-guide/index.html)
