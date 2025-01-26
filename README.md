@@ -61,10 +61,14 @@ Futures, Channels, Concurrency:
 - [Crust of Rust: The Why, What, and How of Pinning in Rust](https://www.youtube.com/watch?v=DkMwYxfSYNQ)
 - [Crust of Rust: Channels](https://www.youtube.com/watch?v=b4mS5UPHh20)
 - [Crust of Rust: Send, Sync, and their implementors](https://www.youtube.com/watch?v=yOezcP-XaIw)
-- [Crust of Rust: Atomics and Memory Ordering](https://www.youtube.com/watch?v=rMGWeSjctlY)
 - [Crust of Rust: Decrusting the tokio crate](https://www.youtube.com/watch?v=o2ob8zkeq2s)
 - [Optional: Mini redis implementation with tokio as example for learning](https://github.com/tokio-rs/mini-redis)
 - [Optional: Crust of Rust: A Cool Generic Concurrency Primitive in Rust](https://www.youtube.com/watch?v=eLNAMEoKAAc)
+
+Atomics, Memory Ordering:
+- [Explaining Atomics in Rust](https://cfsamsonbooks.gitbook.io/explaining-atomics-in-rust
+- [Crust of Rust: Atomics and Memory Ordering](https://www.youtube.com/watch?v=rMGWeSjctlY)
+- [Rust Atomics and Locks](https://marabos.nl/atomics/) with [code](https://github.com/m-ou-se/rust-atomics-and-locks?tab=readme-ov-file)
 
 Tracing, compiling:
 - [Crust of Rust: Decrusting the tracing crate](https://www.youtube.com/watch?v=21rtHinFA40)
@@ -72,7 +76,7 @@ Tracing, compiling:
 - [Crust of Rust: Build Scripts and Foreign-Function Interfaces (FFI)](https://www.youtube.com/watch?v=pePqWoTnSmQ)
 
 Readging:
-- [Rust Atomics and Locks](https://marabos.nl/atomics/) with [code](https://github.com/m-ou-se/rust-atomics-and-locks?tab=readme-ov-file)
+
 - [Rust API Guidelines](https://doc.rust-lang.org/nightly/style-guide/index.html)
 - [The Rustonomicon](https://doc.rust-lang.org/stable/nomicon/)
 - [Rust Style Guide](https://doc.rust-lang.org/nightly/style-guide/index.html)
