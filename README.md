@@ -66,7 +66,7 @@ Futures, Channels, Concurrency:
 - [Optional: Crust of Rust: A Cool Generic Concurrency Primitive in Rust](https://www.youtube.com/watch?v=eLNAMEoKAAc)
 
 Atomics, Memory Ordering:
-- [Explaining Atomics in Rust](https://cfsamsonbooks.gitbook.io/explaining-atomics-in-rust
+- [Explaining Atomics in Rust](https://cfsamsonbooks.gitbook.io/explaining-atomics-in-rust)
 - [Crust of Rust: Atomics and Memory Ordering](https://www.youtube.com/watch?v=rMGWeSjctlY)
 - [Rust Atomics and Locks](https://marabos.nl/atomics/) with [code](https://github.com/m-ou-se/rust-atomics-and-locks?tab=readme-ov-file)
 
