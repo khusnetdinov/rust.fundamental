@@ -37,6 +37,7 @@ Macros(Declarative macros [1], Proc macro [2], Proc attribute-like macros [3], P
 - [Addition info from David Tolnay about macro learning](https://github.com/dtolnay/proc-macro-workshop/issues/22)
 - [Crust of Rust: Procedural Macros in Rust (part 1)](https://www.youtube.com/watch?v=geovSK3wMB8)[2, 3, 4]
 - [Crust of Rust: Procedural Macros in Rust (part 2)](https://www.youtube.com/watch?v=KVWHT1TAirU)[2, 3, 4]
+- [Macrokata for practice in macro](https://github.com/tfpk/macrokata)
 - [More for reading](https://github.com/dtolnay/case-studies)
 
 Orphan rule, Coherence rules:
