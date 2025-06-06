@@ -65,6 +65,7 @@ Futures, Channels, Concurrency:
 - [Crust of Rust: Decrusting the tokio crate](https://www.youtube.com/watch?v=o2ob8zkeq2s)
 - [Optional: Mini redis implementation with tokio as example for learning](https://github.com/tokio-rs/mini-redis)
 - [Optional: Crust of Rust: A Cool Generic Concurrency Primitive in Rust](https://www.youtube.com/watch?v=eLNAMEoKAAc)
+- [Optional: Threads](https://github.com/smallnest/concurrency-programming-via-rust)
 
 Atomics, Memory Ordering:
 - [Explaining Atomics in Rust](https://cfsamsonbooks.gitbook.io/explaining-atomics-in-rust)
